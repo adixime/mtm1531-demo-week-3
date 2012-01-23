@@ -26,3 +26,6 @@ label {
 	display: block;
 	padding: 0 0 0.1em 0;
 }
+#error {
+	color: #F00;
+}
